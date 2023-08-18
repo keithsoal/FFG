@@ -1,0 +1,2 @@
+# FFG
+Flugwissenschaftliche Fachgruppe Göttingen
